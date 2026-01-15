@@ -1,0 +1,7 @@
+{
+  "name": "工作流架构师",
+  "description": "一个 AI 驱动的访谈员，帮助员工识别并定义可自动化的重复性浏览器工作流。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
